@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "24EAB33795982C65580EEB9E51ADB152",
+  "keywordClasses": [
+    {
+      "name": "nilai_tc.price",
+      "keywordMethods": [
+        {
+          "name": "TradeConfirmationPrice",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

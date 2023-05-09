@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "4105A46AFA6C512A2F173D2FA68FD63A",
+  "keywordClasses": [
+    {
+      "name": "nilai_tc.taxInterest",
+      "keywordMethods": [
+        {
+          "name": "TradeConfirmationTaxInterest",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

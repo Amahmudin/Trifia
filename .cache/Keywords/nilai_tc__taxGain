@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F7B466A83D5175207B98DD14F454FF74",
+  "keywordClasses": [
+    {
+      "name": "nilai_tc.taxGain",
+      "keywordMethods": [
+        {
+          "name": "TradeConfirmationTaxGain",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

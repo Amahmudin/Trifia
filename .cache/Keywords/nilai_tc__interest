@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "30365C5E079A3658385FAFE92BF7F7F0",
+  "keywordClasses": [
+    {
+      "name": "nilai_tc.interest",
+      "keywordMethods": [
+        {
+          "name": "TradeConfirmationInterest",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
